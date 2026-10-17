@@ -1,0 +1,194 @@
+{
+  "haus-schabernack": {
+    "title": "Haus Schabernack",
+    "eyebrow": "DAS HAUSPROJEKT",
+    "intro": "Ein Altbau, jede Menge Ideen und ein Zuhause, das Schritt für Schritt smarter wird.",
+    "kind": "haus"
+  },
+  "videoequipment": {
+    "title": "Studio Schabernack",
+    "eyebrow": "MEIN VIDEOEQUIPMENT",
+    "intro": "Kameras, Objektive, Ton und Licht: Die Technik hinter meinen YouTube-Videos.",
+    "sections": [
+      [
+        "Kameras & Objektive",
+        "Die Ausstattung für Studioaufnahmen und unterwegs.",
+        [
+          [
+            "Sony A7 IV",
+            "Hauptkamera für Frontalaufnahmen"
+          ],
+          [
+            "Sony 24–70 mm f/2.8 GM II",
+            "Objektiv an der Hauptkamera"
+          ],
+          [
+            "Sony FX3",
+            "Zweite Kamera und mobile Aufnahmen"
+          ],
+          [
+            "Sony FE 24–105 mm f/4 G OSS",
+            "Objektiv für die FX3"
+          ],
+          [
+            "Sony FE 35 mm f/1.8",
+            "Festbrennweite"
+          ]
+        ]
+      ],
+      [
+        "Ton & Aufnahme",
+        "Audio und Software im Studio.",
+        [
+          [
+            "Sennheiser MKH 50 P48",
+            "Mikrofon"
+          ],
+          [
+            "Softron MovieRecorder Express",
+            "Aufnahmesoftware"
+          ],
+          [
+            "t.akustik Akustikwand",
+            "Akustik im Studio"
+          ],
+          [
+            "t.akustik Bassfallen",
+            "Raumakustik"
+          ]
+        ]
+      ],
+      [
+        "Licht",
+        "Lichttechnik für das Set.",
+        [
+          [
+            "Amaran 150c",
+            "Videoleuchte"
+          ]
+        ]
+      ]
+    ]
+  },
+  "live-equipment": {
+    "title": "Mein Livestream-Setup",
+    "eyebrow": "LIVE-EQUIPMENT",
+    "intro": "Die Technik, mit der Kameras, Szenen und Einblendungen live zusammenlaufen.",
+    "sections": [
+      [
+        "Streaming-Zentrale",
+        "Hier laufen die Bildsignale zusammen.",
+        [
+          [
+            "Blackmagic Design ATEM Mini",
+            "Video-Switcher für die Liveproduktion"
+          ],
+          [
+            "Streamlabs OBS",
+            "Streaming-Software"
+          ]
+        ]
+      ],
+      [
+        "Steuerung",
+        "Szenen, Makros und Einblendungen direkt vom Schreibtisch.",
+        [
+          [
+            "Elgato Stream Deck XL",
+            "32 programmierbare Tasten"
+          ],
+          [
+            "Bitfocus Companion",
+            "Steuerung und Makros"
+          ]
+        ]
+      ]
+    ]
+  },
+  "edc": {
+    "title": "Mein EDC",
+    "eyebrow": "EVERYDAY CARRY",
+    "intro": "Die Technik und kleinen Helfer, die im Alltag oder auf dem Weg zur Arbeit dabei sind.",
+    "sections": [
+      [
+        "Immer dabei",
+        "Die Gegenstände für unterwegs.",
+        [
+          [
+            "Apple Watch Ultra",
+            "Smartwatch"
+          ],
+          [
+            "Apple iPhone 14 Pro Max",
+            "Smartphone"
+          ],
+          [
+            "Apple AirPods Pro 2",
+            "In-Ear-Kopfhörer"
+          ],
+          [
+            "Secrid Cardslide",
+            "Kartenetui"
+          ]
+        ]
+      ],
+      [
+        "Für die Arbeit",
+        "Zusätzliche Ausrüstung für unterwegs.",
+        [
+          [
+            "Peak Design Everyday Backpack",
+            "30-Liter-Rucksack"
+          ],
+          [
+            "Peak Design Field Pouch",
+            "Tasche für Zubehör"
+          ],
+          [
+            "Apple MacBook Pro 14″ (2021)",
+            "M1 Max, 2 TB SSD"
+          ]
+        ]
+      ]
+    ]
+  },
+  "fotoequipment": {
+    "title": "Meine Fotoausrüstung",
+    "eyebrow": "FOTOGRAFIE",
+    "intro": "Die Kameras, Objektive und Begleiter für Fotos unterwegs.",
+    "sections": [
+      [
+        "Kamera & Objektive",
+        "Die Sony-Ausrüstung fürs Fotografieren.",
+        [
+          [
+            "Sony A7 IV",
+            "Vollformatkamera"
+          ],
+          [
+            "Sony FE 35 mm f/1.8",
+            "Festbrennweite"
+          ],
+          [
+            "Sony 24–70 mm f/2.8 GM II",
+            "Standardzoom"
+          ],
+          [
+            "Sony FE 70–200 mm f/2.8 GM OSS",
+            "Telezoom"
+          ]
+        ]
+      ],
+      [
+        "Stativ",
+        "Leicht und kompakt unterwegs.",
+        [
+          [
+            "Peak Design Travel Tripod Carbon Fibre",
+            "Reisestativ aus Carbon"
+          ]
+        ]
+      ]
+    ]
+  }
+}

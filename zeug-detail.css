@@ -1,0 +1,251 @@
+/* Eigenständige Unterseiten: ergänzt die vorhandene style.css */
+html {
+  scroll-behavior: smooth;
+}
+.detail-wrap {
+  width: min(1180px, calc(100% - 48px));
+  margin: auto;
+}
+.detail-hero {
+  padding: 80px 0 85px;
+  background: linear-gradient(135deg, #fff 35%, #f5f5f7);
+}
+.detail-back {
+  display: inline-block;
+  margin-bottom: 65px;
+  color: #777;
+  text-decoration: none;
+  font-size: 14px;
+}
+.detail-back:hover {
+  color: #00bfe5;
+}
+.detail-kicker {
+  font-size: 12px;
+  letter-spacing: 2px;
+  color: #00bfe5;
+  font-weight: 750;
+}
+.detail-hero h1 {
+  font-size: clamp(46px, 7vw, 90px);
+  letter-spacing: -0.065em;
+  line-height: 1.06;
+  margin: 16px 0 24px;
+  color: #1d1d1f;
+}
+.detail-hero h1 span {
+  color: #00bfe5;
+}
+.detail-lead {
+  max-width: 760px;
+  font-size: clamp(17px, 2vw, 22px);
+  line-height: 1.6;
+  color: #6e6e73;
+}
+.detail-tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 42px;
+}
+.detail-tab {
+  border-radius: 999px;
+  padding: 12px 20px;
+  background: #ececef;
+  color: #252529;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 650;
+  transition: background 0.2s;
+}
+.detail-tab:hover {
+  background: #00bfe5;
+  color: white;
+}
+.detail-body {
+  background: #f5f5f7;
+  padding: 20px 0 110px;
+}
+.detail-section {
+  padding-top: 76px;
+  scroll-margin-top: 100px;
+}
+.detail-section-head {
+  max-width: 720px;
+}
+.detail-section h2 {
+  font-size: clamp(34px, 4vw, 52px);
+  letter-spacing: -0.045em;
+  color: #1d1d1f;
+}
+.detail-section-head p {
+  margin-top: 12px;
+  color: #777;
+  line-height: 1.6;
+  font-size: 17px;
+}
+.detail-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 22px;
+  margin-top: 32px;
+}
+.detail-card {
+  background: white;
+  border-radius: 23px;
+  overflow: hidden;
+  border: 1px solid #ededf0;
+  transition:
+    transform 0.2s,
+    box-shadow 0.2s;
+}
+.detail-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 14px 30px #0000000a;
+}
+.detail-card-media {
+  height: 195px;
+  background: linear-gradient(145deg, #f7f7f9, #e9eaed);
+  display: grid;
+  place-items: center;
+}
+.detail-monogram {
+  font-size: 54px;
+  font-weight: 800;
+  letter-spacing: -0.07em;
+  color: #c3c7cf;
+  user-select: none;
+}
+.detail-card-info {
+  padding: 24px;
+}
+.detail-card h3 {
+  font-size: 20px;
+  letter-spacing: -0.03em;
+  color: #1d1d1f;
+}
+.detail-card p {
+  margin-top: 8px;
+  color: #777;
+  line-height: 1.5;
+  font-size: 14px;
+}
+.detail-story {
+  background: white;
+  border-radius: 22px;
+  padding: 32px;
+  margin-top: 60px;
+  font-size: 18px;
+  line-height: 1.7;
+  color: #57575d;
+}
+.detail-end {
+  text-align: center;
+  background: #1d1d1f;
+  padding: 95px 0;
+}
+.detail-end h2 {
+  color: white;
+  font-size: clamp(36px, 5vw, 58px);
+  letter-spacing: -0.05em;
+  margin: 15px 0 30px;
+}
+.detail-button {
+  display: inline-block;
+  background: #00bfe5;
+  border-radius: 99px;
+  padding: 15px 25px;
+  color: white;
+  text-decoration: none;
+  font-weight: 700;
+}
+.detail-footer {
+  background: #e5e5ea;
+  padding: 38px 0;
+}
+.detail-footer-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 22px;
+  flex-wrap: wrap;
+}
+.detail-footer img {
+  max-width: 150px;
+  max-height: 45px;
+  object-fit: contain;
+}
+.detail-footer span {
+  font-size: 13px;
+  color: #777;
+}
+.detail-footer-inner > div {
+  display: flex;
+  gap: 18px;
+}
+.detail-footer a {
+  color: #333;
+  text-decoration: none;
+  font-size: 14px;
+}
+.detail-error {
+  padding: 60px 0;
+  color: #666;
+}
+@media (max-width: 900px) {
+  .detail-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+@media (max-width: 600px) {
+  .detail-wrap {
+    width: calc(100% - 36px);
+  }
+  .detail-hero {
+    padding: 45px 0 60px;
+  }
+  .detail-back {
+    margin-bottom: 50px;
+  }
+  .detail-hero h1 {
+    font-size: 46px;
+  }
+  .detail-tabs {
+    margin-top: 30px;
+  }
+  .detail-body {
+    padding-bottom: 65px;
+  }
+  .detail-section {
+    padding-top: 55px;
+  }
+  .detail-grid {
+    gap: 12px;
+  }
+  .detail-card {
+    border-radius: 17px;
+  }
+  .detail-card-media {
+    height: 125px;
+  }
+  .detail-monogram {
+    font-size: 36px;
+  }
+  .detail-card-info {
+    padding: 15px;
+  }
+  .detail-card h3 {
+    font-size: 15px;
+  }
+  .detail-card p {
+    font-size: 12px;
+  }
+  .detail-end {
+    padding: 70px 0;
+  }
+}
+@media (max-width: 350px) {
+  .detail-grid {
+    grid-template-columns: 1fr;
+  }
+}

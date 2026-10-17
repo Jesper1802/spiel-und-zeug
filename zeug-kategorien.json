@@ -1,0 +1,1387 @@
+{
+  "matter": {
+    "title": "Matter-Geräte",
+    "intro": "Alle Geräte aus Andreas’ Matter-Übersicht – mit Status aus der ursprünglichen Liste.",
+    "source": "https://spielundzeug.com/zeug/matter",
+    "products": [
+      {
+        "name": "Aeotec Smart Home Hub",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Amazon Echo 3. Generation",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Amazon Echo 4. Generation",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Amazon Echo Dot 3. Generation 2018",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Amazon Echo Dot 4. Generation",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Amazon Echo Dot 5. Generation",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Amazon Echo Dot mit Uhr 3. Generation",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Amazon Echo Dot mit Uhr 4. Generation",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Amazon Echo Dot mit Uhr 5. Generation",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Amazon Echo Flex",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Amazon Echo Input",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Amazon Echo Show 10 3. Generation",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Amazon Echo Show 15",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Amazon Echo Show 5 2. Generation 2021",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Amazon Echo Show 5",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Amazon Echo Show 8 2. Generation 2021",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Amazon Echo Show 8",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Amazon Echo Studio",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Apple AppleTV 4K 2. Generation",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Apple AppleTV 4K Wifi 3. Generation",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Apple AppleTV 4K Wifi + Ethernet 3. Generation",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Apple HomePod 1. Generation",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Apple HomePod 2. Generation",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Apple HomePod mini",
+        "status": "Ja",
+        "bild": "assets/produkte/apple-homepod-mini.webp"
+      },
+      {
+        "name": "Aqara Door & Window Sensor P2",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Aqara Hub E1",
+        "status": "Geplant",
+        "bild": ""
+      },
+      {
+        "name": "Aqara Hub M1S Gen 2",
+        "status": "Geplant",
+        "bild": ""
+      },
+      {
+        "name": "Aqara Hub M2",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Aqara Hub M3",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Aqara Presence Sensor FP2",
+        "status": "Geplant",
+        "bild": ""
+      },
+      {
+        "name": "Aqara Smart Lock U200",
+        "status": "Geplant",
+        "bild": ""
+      },
+      {
+        "name": "Aqara Ceiling Light T1M",
+        "status": "Geplant",
+        "bild": ""
+      },
+      {
+        "name": "Aqara Border Router Plug",
+        "status": "Geplant",
+        "bild": ""
+      },
+      {
+        "name": "Athom Homey Pro",
+        "status": "Geplant",
+        "bild": ""
+      },
+      {
+        "name": "Belkin Wemo Smart Plug mit Thread",
+        "status": "Geplant",
+        "bild": ""
+      },
+      {
+        "name": "Bosch Smart Home Außensirene",
+        "status": "Geplant",
+        "bild": ""
+      },
+      {
+        "name": "Bosch Smart Home Controller II",
+        "status": "Geplant",
+        "bild": ""
+      },
+      {
+        "name": "Bosch Smart Home Eyes Außenkamera",
+        "status": "Geplant",
+        "bild": ""
+      },
+      {
+        "name": "Bosch Smart Home Eyes Innenkamera II",
+        "status": "Geplant",
+        "bild": ""
+      },
+      {
+        "name": "Bosch Smart Home Licht-/ Rollladensteuerung II",
+        "status": "Geplant",
+        "bild": ""
+      },
+      {
+        "name": "Bosch Smart Home Rauchmelder II",
+        "status": "Geplant",
+        "bild": ""
+      },
+      {
+        "name": "Bosch Smart Home Twinguard",
+        "status": "Geplant",
+        "bild": ""
+      },
+      {
+        "name": "Bosch Smart Home Twist",
+        "status": "Geplant",
+        "bild": ""
+      },
+      {
+        "name": "Bosch Smart Home Wassermelder",
+        "status": "Geplant",
+        "bild": ""
+      },
+      {
+        "name": "Bosch Smart Home WLAN Überwachungskamera",
+        "status": "Geplant",
+        "bild": ""
+      },
+      {
+        "name": "Cync A19 Cync Full Color",
+        "status": "Geplant",
+        "bild": ""
+      },
+      {
+        "name": "Cync Cync Indoor Smart Plug",
+        "status": "Geplant",
+        "bild": ""
+      },
+      {
+        "name": "Eltako Beschattungsaktor 62-IP 1plus1 Schließer 4A",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Eltako Stromstoß-Schaltrelais 62-IP 1 Schließer nicht potenzialfrei 16A",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Eltako Stromstoß-Schaltrelais 62-IP 1 Schließer potenzialfrei 16A",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Eltako Universal-Dimmaktor 62-IP bis 300W",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Eve Aqua 2. Generation",
+        "status": "Geplant",
+        "bild": ""
+      },
+      {
+        "name": "Eve Aqua 3. Generation",
+        "status": "Geplant",
+        "bild": ""
+      },
+      {
+        "name": "Eve Door and Window 3. Generation (HomeKit)",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Eve Door and Window 3. Generation (Matter)",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Eve Energy 4. Generation (HomeKit)",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Eve Energy 4. Generation (Matter)",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Eve Energy Outdoor",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Eve Light Switch 2. Generation",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Eve Motion 3. Generation (HomeKit)",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Eve Motion 3. Generation (Matter)",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Eve MotionBlinds",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Eve Blinds Collection",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Eve Room 3. Generation",
+        "status": "Geplant",
+        "bild": ""
+      },
+      {
+        "name": "Eve Shutter Switch",
+        "status": "Geplant",
+        "bild": ""
+      },
+      {
+        "name": "Eve Thermo 4. Generation",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Eve Thermo Control",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Eve Water Guard 2. Generation",
+        "status": "Geplant",
+        "bild": ""
+      },
+      {
+        "name": "Eve Weather 2. Generation",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Google Nest Audio",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Google Nest Hub 1. Generation",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Google Nest Hub 2. Generation",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Google Nest Hub Max",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Google Nest Mini 2. Generation",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Google Nest Thermostat 2020er Model",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Google Nest Wifi 2. Generation",
+        "status": "Geplant",
+        "bild": ""
+      },
+      {
+        "name": "Google Nest Wifi Pro (Wi-Fi 6E)",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Google Wifi 1. Generation",
+        "status": "Geplant",
+        "bild": ""
+      },
+      {
+        "name": "Govee M1 LED Light Strip",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Hoobs Hoobs Pro",
+        "status": "Geplant",
+        "bild": ""
+      },
+      {
+        "name": "IKEA DIRIGERA",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "LG ThinQ ON AI home hub",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Meross Smart Wi-Fi Plug Mini",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Meross Smart Outdoor Plug",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Meross Smart Power Strip",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Meross Smart Presence Sensor",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Nanoleaf Skylight",
+        "status": "Geplant",
+        "bild": ""
+      },
+      {
+        "name": "Nanoleaf 4D (55 bis 65 Zoll)",
+        "status": "Geplant",
+        "bild": ""
+      },
+      {
+        "name": "Nanoleaf 4D (65 bis 85 Zoll)",
+        "status": "Geplant",
+        "bild": ""
+      },
+      {
+        "name": "Nanoleaf Matter 3 Zoll Downlight 2. Generation",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Nanoleaf Matter B22 Smart Bulb 2. Generation",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Nanoleaf Matter GU10 Smart Bulb 2. Generation",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Nanoleaf Matter E27 Smart Bulb (Thread) 2. Generation",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Nanoleaf Matter E27 Smart Bulb (Wifi)",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Nanoleaf Matter Essentials Lightstrip 2m 2. Generation",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Nanoleaf Matter Essentials Lightstrip 5m 2. Generation",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Nanoleaf Matter Essentials Mehrfarbiger Lightstrip",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Nanoleaf Matter Essentials Mehrfarbiger Lightstrip HD",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Nanoleaf Sense+ Smart Light Switch",
+        "status": "Geplant",
+        "bild": ""
+      },
+      {
+        "name": "Nanoleaf Sense+ Smarter Kabelloser Lichtschalter",
+        "status": "Geplant",
+        "bild": ""
+      },
+      {
+        "name": "Nanoleaf Matter Smarte Weihnachts-Lichterkette",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Nanoleaf Matter Essentials Lichterkette",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Nanoleaf Smart Multicolor Permanent Outdoor Lights",
+        "status": "Geplant",
+        "bild": ""
+      },
+      {
+        "name": "Neo Lecksensor",
+        "status": "Geplant",
+        "bild": ""
+      },
+      {
+        "name": "Neo Kontaktsensor",
+        "status": "Geplant",
+        "bild": ""
+      },
+      {
+        "name": "Neo Anwesenheitssensor",
+        "status": "Geplant",
+        "bild": ""
+      },
+      {
+        "name": "Neo Sprinklersteuerung",
+        "status": "Geplant",
+        "bild": ""
+      },
+      {
+        "name": "Netatmo Smart Security Sensor",
+        "status": "Geplant",
+        "bild": ""
+      },
+      {
+        "name": "Philips Hue Bridge Version 2.1",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Samsung QD-OLED 55 S95C",
+        "status": "Geplant",
+        "bild": ""
+      },
+      {
+        "name": "Samsung QD-OLED 65 S95C",
+        "status": "Geplant",
+        "bild": ""
+      },
+      {
+        "name": "Samsung QD-OLED 77 S95C",
+        "status": "Geplant",
+        "bild": ""
+      },
+      {
+        "name": "SwitchBot Hub 2",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "TP-Link Tapo Smarte Steckdose",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Ubisys Gateway G1 1007 PoE",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Ubisys Gateway G1 1014 PoE",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Ubisys Gateway G1 1021 PoE",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Ubisys Gateway G1 1038 PoE",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Ubisys Gateway G1 1434 PoE",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "WiZ Bewegungssensor",
+        "status": "Geplant",
+        "bild": ""
+      },
+      {
+        "name": "WiZ Filament-Kugellampe klar 6,5 W E27 Einstellbares Weiß",
+        "status": "Geplant",
+        "bild": ""
+      },
+      {
+        "name": "WiZ Filament-Kugellampe klar 6,7 W E27 Einstellbares Weiß",
+        "status": "Geplant",
+        "bild": ""
+      },
+      {
+        "name": "WiZ Filament-Lampe Bernstein 6,7 W E27 Einstellbares Weiß",
+        "status": "Geplant",
+        "bild": ""
+      },
+      {
+        "name": "WiZ Filament-Lampe in Kerzenform klar 4,9 W E14 Einstellbares Weiß",
+        "status": "Geplant",
+        "bild": ""
+      },
+      {
+        "name": "WiZ Filament-Lampe klar 6,7 W A60 E27",
+        "status": "Geplant",
+        "bild": ""
+      },
+      {
+        "name": "WiZ IMAGEO 1 Spot Einstellbares Weiß",
+        "status": "Geplant",
+        "bild": ""
+      },
+      {
+        "name": "WiZ IMAGEO 1 Spot Gesamtes Farbspektrum",
+        "status": "Geplant",
+        "bild": ""
+      },
+      {
+        "name": "WiZ IMAGEO 2 Spots Einstellbares Weiß",
+        "status": "Geplant",
+        "bild": ""
+      },
+      {
+        "name": "WiZ IMAGEO 2 Spots Gesamtes Farbspektrum",
+        "status": "Geplant",
+        "bild": ""
+      },
+      {
+        "name": "WiZ IMAGEO 3 Spots Einstellbares Weiß",
+        "status": "Geplant",
+        "bild": ""
+      },
+      {
+        "name": "WiZ IMAGEO 3 Spots Gesamtes Farbspektrum",
+        "status": "Geplant",
+        "bild": ""
+      },
+      {
+        "name": "WiZ Kugellampe 11 W E27 Einstellbares Weiß",
+        "status": "Geplant",
+        "bild": ""
+      },
+      {
+        "name": "WiZ Kugellampe 11 W E27 Gesamtes Farbspektrum",
+        "status": "Geplant",
+        "bild": ""
+      },
+      {
+        "name": "WiZ Lampe 8 W E27 Einstellbares Weiß",
+        "status": "Geplant",
+        "bild": ""
+      },
+      {
+        "name": "WiZ Lampe 8 W E27 Gesamtes Farbspektrum",
+        "status": "Geplant",
+        "bild": ""
+      },
+      {
+        "name": "WiZ Smart Plug",
+        "status": "Geplant",
+        "bild": ""
+      },
+      {
+        "name": "WiZ Starter-Set LED-Lightstrip 2 m",
+        "status": "Geplant",
+        "bild": ""
+      },
+      {
+        "name": "Yeelight Smart Cube Lamp",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Zemismart Slide Curtain Matter over Thread 2.1 Meter",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Zemismart Slide Curtain Matter over Thread 3.1 Meter",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Zemismart Slide Curtain Matter over Thread 4.1 Meter",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Zemismart Slide Curtain Matter over Thread 5.1 Meter",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Zemismart Matter Roller Motor Motor einzeln",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Zemismart Matter Roller Motor inkl. 1 Kanal Fernbedienung",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Zemismart Matter Roller Motor inkl. 9 Kanal Fernbedienung",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Google Nest Thermostat Schneeweiß HW Version 1.4",
+        "status": "Geplant",
+        "bild": ""
+      },
+      {
+        "name": "Google Nest Thermostat Dunkelgrau HW Version 1.4",
+        "status": "Geplant",
+        "bild": ""
+      },
+      {
+        "name": "mediola Matter Bridge",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Sonoff MINI Extreme Wi-Fi Smart Switch (Matter)",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Sonoff M5 Matter Wandschalter Typ 86",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Sonoff M5 Matter Wandschalter Typ 80",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Sonoff iHost Smart Home Hub",
+        "status": "Geplant",
+        "bild": ""
+      },
+      {
+        "name": "SmartWings Smart Rollos Frei anpassbar",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Busch-Jaeger System Access Point 2.0",
+        "status": "Geplant",
+        "bild": ""
+      },
+      {
+        "name": "Zemismart Zemismart M1 Hub FW 2.0.0",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Nuki Smart Lock 4. Generation",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Nuki Smart Lock Pro 4. Generation",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Tedee Lock GO",
+        "status": "Geplant",
+        "bild": ""
+      },
+      {
+        "name": "Shelly 1 Mini",
+        "status": "Geplant",
+        "bild": ""
+      },
+      {
+        "name": "Shelly 1PM Mini",
+        "status": "Geplant",
+        "bild": ""
+      },
+      {
+        "name": "Shelly PM Mini",
+        "status": "Geplant",
+        "bild": ""
+      },
+      {
+        "name": "Shelly H&T",
+        "status": "Geplant",
+        "bild": ""
+      },
+      {
+        "name": "TUO Kontaktsensor",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "TUO Smart Button",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "Roborock S8 MaxV Ultra",
+        "status": "Geplant",
+        "bild": ""
+      },
+      {
+        "name": "Siegenia Smarter Fenstergriff",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "tado° Smartes Heizkörper-Thermostat X",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "tado° Smartes Thermostat X",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "tado° Funk-Temperatursensor X",
+        "status": "Ja",
+        "bild": ""
+      },
+      {
+        "name": "tado° Bridge X",
+        "status": "Ja",
+        "bild": ""
+      }
+    ]
+  },
+  "homekit-thread": {
+    "title": "HomeKit mit Thread",
+    "intro": "Die HomeKit-Thread-Liste von Andreas.",
+    "source": "https://spielundzeug.com/zeug/homekit-thread",
+    "products": [
+      {
+        "name": "Apple HomePod mini",
+        "status": "",
+        "bild": "assets/produkte/apple-homepod-mini.webp"
+      },
+      {
+        "name": "Apple AppleTV",
+        "status": "",
+        "bild": ""
+      },
+      {
+        "name": "Eve Energy",
+        "status": "",
+        "bild": ""
+      },
+      {
+        "name": "Eve Room",
+        "status": "",
+        "bild": ""
+      },
+      {
+        "name": "Eve Weather",
+        "status": "",
+        "bild": ""
+      },
+      {
+        "name": "Eve Aqua",
+        "status": "",
+        "bild": ""
+      },
+      {
+        "name": "Eve Door and Window",
+        "status": "",
+        "bild": "assets/produkte/eve-door-window.webp"
+      },
+      {
+        "name": "Eve Eve Light Switch",
+        "status": "",
+        "bild": ""
+      },
+      {
+        "name": "Eve Thermo",
+        "status": "",
+        "bild": "assets/produkte/eve-thermo.webp"
+      },
+      {
+        "name": "Nanoleaf A60 Bulb",
+        "status": "",
+        "bild": ""
+      },
+      {
+        "name": "Nanoleaf Essentials 80 (2m Starter-Kit)",
+        "status": "",
+        "bild": ""
+      },
+      {
+        "name": "Nanoleaf Elements Hexagon Starter Kit",
+        "status": "",
+        "bild": ""
+      }
+    ]
+  },
+  "beleuchtung": {
+    "title": "Beleuchtung",
+    "intro": "Lampen, Lichtleisten und Zubehör aus Andreas’ Sammlung.",
+    "source": "https://spielundzeug.com/sammlungen/filter:beleuchtung",
+    "products": [
+      {
+        "name": "Aqara Smart Wall Switch H1 EU",
+        "status": "",
+        "bild": ""
+      },
+      {
+        "name": "Twinkly Festoon Lights",
+        "status": "",
+        "bild": ""
+      },
+      {
+        "name": "Philips Hue Gradient Signe Tischleuchte",
+        "status": "",
+        "bild": ""
+      },
+      {
+        "name": "Philips Hue hue amarant",
+        "status": "",
+        "bild": ""
+      },
+      {
+        "name": "Philips Hue Ambiance Gradient Lightstrip",
+        "status": "",
+        "bild": ""
+      },
+      {
+        "name": "Philips Hue Ambiance Gradient Lightstrip (1m Verlängerung)",
+        "status": "",
+        "bild": ""
+      },
+      {
+        "name": "Philips Hue Appear",
+        "status": "",
+        "bild": ""
+      },
+      {
+        "name": "Philips Hue Hue E14 Tropfen",
+        "status": "",
+        "bild": ""
+      },
+      {
+        "name": "Philips Hue Econic Wandleuchte",
+        "status": "",
+        "bild": ""
+      },
+      {
+        "name": "Philips Hue Gradient Lightstrip",
+        "status": "",
+        "bild": ""
+      },
+      {
+        "name": "Philips Hue Lily 3er-Set",
+        "status": "",
+        "bild": ""
+      },
+      {
+        "name": "Philips Hue Lily Spot Erweiterung",
+        "status": "",
+        "bild": ""
+      },
+      {
+        "name": "Philips Hue Outdoor Lightstrip 5 Meter",
+        "status": "",
+        "bild": ""
+      },
+      {
+        "name": "Philips Hue Play Gradient Light Tube groß",
+        "status": "",
+        "bild": ""
+      },
+      {
+        "name": "Philips Hue Play Gradient Light Tube kompakt",
+        "status": "",
+        "bild": ""
+      },
+      {
+        "name": "Philips Hue Play Light Bar",
+        "status": "",
+        "bild": ""
+      },
+      {
+        "name": "Philips Hue Gradient Signe Stehleuchte",
+        "status": "",
+        "bild": ""
+      },
+      {
+        "name": "Philips Hue Surimu Deckenpanel (quadrat)",
+        "status": "",
+        "bild": ""
+      },
+      {
+        "name": "Philips Hue Surimu Deckenpanel (rechteckig)",
+        "status": "",
+        "bild": ""
+      },
+      {
+        "name": "IKEA Myrvav",
+        "status": "",
+        "bild": ""
+      },
+      {
+        "name": "IKEA Trådfri E14",
+        "status": "",
+        "bild": ""
+      },
+      {
+        "name": "LIDL Melinera Lichterkette",
+        "status": "",
+        "bild": ""
+      },
+      {
+        "name": "Nanoleaf Essentials 80 (2m Starter-Kit)",
+        "status": "",
+        "bild": ""
+      },
+      {
+        "name": "Nanoleaf A60 Bulb",
+        "status": "",
+        "bild": ""
+      },
+      {
+        "name": "Nanoleaf Elements Hexagon Starter Kit",
+        "status": "",
+        "bild": ""
+      },
+      {
+        "name": "Paulmann Haldar Stehlampe 2-flammig",
+        "status": "",
+        "bild": ""
+      },
+      {
+        "name": "Philips LEDclassic E14 warmweiß 470 Lumen Tropfen dimmbar",
+        "status": "",
+        "bild": ""
+      },
+      {
+        "name": "Philips Hue White and Color",
+        "status": "",
+        "bild": "assets/produkte/philips-hue-white-and-color.webp"
+      },
+      {
+        "name": "Philips Hue Go",
+        "status": "",
+        "bild": ""
+      },
+      {
+        "name": "Philips Hue Lightstrip Plus (Basis 2 Meter)",
+        "status": "",
+        "bild": "assets/produkte/philips-hue-lightstrip-plus.webp"
+      },
+      {
+        "name": "Philips Hue Starterkit",
+        "status": "",
+        "bild": "assets/produkte/philips-hue-starterkit.webp"
+      },
+      {
+        "name": "Philips Hue White Ambiance",
+        "status": "",
+        "bild": "assets/produkte/philips-hue-white-ambiance.webp"
+      },
+      {
+        "name": "Philips Hue Play HDMI Sync Box",
+        "status": "",
+        "bild": ""
+      },
+      {
+        "name": "Twinkly TWS250SPP Special Edition",
+        "status": "",
+        "bild": ""
+      },
+      {
+        "name": "Twinkly Icicle",
+        "status": "",
+        "bild": ""
+      },
+      {
+        "name": "Twinkly Spritzer",
+        "status": "",
+        "bild": ""
+      },
+      {
+        "name": "Twinkly Squares",
+        "status": "",
+        "bild": ""
+      }
+    ]
+  },
+  "smartspeaker": {
+    "title": "Smartspeaker",
+    "intro": "Smarte Lautsprecher aus Andreas’ Sammlung.",
+    "source": "https://spielundzeug.com/sammlungen/filter:smartspeaker",
+    "products": [
+      {
+        "name": "Amazon Echo (4. Generation)",
+        "status": "",
+        "bild": ""
+      },
+      {
+        "name": "Amazon Echo Dot (4. Generation)",
+        "status": "",
+        "bild": ""
+      },
+      {
+        "name": "Amazon Echo Show 10 (3. Generation)",
+        "status": "",
+        "bild": ""
+      },
+      {
+        "name": "Apple HomePod",
+        "status": "",
+        "bild": ""
+      },
+      {
+        "name": "Apple HomePod mini",
+        "status": "",
+        "bild": "assets/produkte/apple-homepod-mini.webp"
+      },
+      {
+        "name": "Sonos Arc",
+        "status": "",
+        "bild": "assets/produkte/sonos-arc.webp"
+      },
+      {
+        "name": "Sonos Beam",
+        "status": "",
+        "bild": ""
+      },
+      {
+        "name": "Sonos Beam 2",
+        "status": "",
+        "bild": ""
+      },
+      {
+        "name": "Sonos One",
+        "status": "",
+        "bild": "assets/produkte/sonos-one.webp"
+      },
+      {
+        "name": "Sonos Roam",
+        "status": "",
+        "bild": ""
+      }
+    ]
+  },
+  "heizung": {
+    "title": "Heizung",
+    "intro": "Thermostate und Zubehör aus Andreas’ Sammlung.",
+    "source": "https://spielundzeug.com/sammlungen/filter:Heizung",
+    "products": [
+      {
+        "name": "Eve Thermo",
+        "status": "",
+        "bild": "assets/produkte/eve-thermo.webp"
+      },
+      {
+        "name": "tado° Smartes Thermostat",
+        "status": "",
+        "bild": ""
+      },
+      {
+        "name": "tado° Starter Kit",
+        "status": "",
+        "bild": ""
+      },
+      {
+        "name": "tado° Funk-Temperatursensor",
+        "status": "",
+        "bild": ""
+      },
+      {
+        "name": "tado° Thermostat",
+        "status": "",
+        "bild": ""
+      }
+    ]
+  },
+  "klima": {
+    "title": "Klima",
+    "intro": "Raumklima, Luftreinigung und Klimasteuerung.",
+    "source": "https://spielundzeug.com/sammlungen/filter:klima",
+    "products": [
+      {
+        "name": "Dyson Pure Humidify+Cool",
+        "status": "",
+        "bild": ""
+      },
+      {
+        "name": "Dyson Pure Cool",
+        "status": "",
+        "bild": ""
+      },
+      {
+        "name": "Eve Room 2",
+        "status": "",
+        "bild": ""
+      },
+      {
+        "name": "Eve Room",
+        "status": "",
+        "bild": ""
+      },
+      {
+        "name": "Mitsubishi Electric MSZ-AP35VG",
+        "status": "",
+        "bild": ""
+      },
+      {
+        "name": "Quingping Temp & RH Monitor (H-Version)",
+        "status": "",
+        "bild": ""
+      },
+      {
+        "name": "tado° Smart Air Conditioning Control V3+",
+        "status": "",
+        "bild": ""
+      },
+      {
+        "name": "Xiaomi Smart Air Purifier 3H",
+        "status": "",
+        "bild": ""
+      }
+    ]
+  },
+  "saugroboter": {
+    "title": "Saugroboter",
+    "intro": "Saugroboter aus Andreas’ Sammlung.",
+    "source": "https://spielundzeug.com/sammlungen/filter:saugroboter",
+    "products": [
+      {
+        "name": "Ecovacs Deebot N79S",
+        "status": "",
+        "bild": ""
+      },
+      {
+        "name": "Ecovacs DEEBOT OZMO T8 AIVI",
+        "status": "",
+        "bild": ""
+      },
+      {
+        "name": "Dyson 360 Heurist",
+        "status": "",
+        "bild": ""
+      },
+      {
+        "name": "iRobot Roomba 521",
+        "status": "",
+        "bild": ""
+      },
+      {
+        "name": "Roborock S5",
+        "status": "",
+        "bild": ""
+      },
+      {
+        "name": "roborock S6 MaxV",
+        "status": "",
+        "bild": ""
+      },
+      {
+        "name": "roborock S7",
+        "status": "",
+        "bild": ""
+      },
+      {
+        "name": "roborock S7 Absaugstation",
+        "status": "",
+        "bild": ""
+      },
+      {
+        "name": "roborock S7 maxV Ultra",
+        "status": "",
+        "bild": ""
+      },
+      {
+        "name": "Roborock S8 Pro Ultra",
+        "status": "",
+        "bild": ""
+      }
+    ]
+  },
+  "fenstersensoren": {
+    "title": "Fenstersensoren",
+    "intro": "Fensterkontakte und Sicherheitssensoren.",
+    "source": "https://spielundzeug.com/sammlungen/filter:fenstersensor",
+    "products": [
+      {
+        "name": "Aqara Door and Window Sensor",
+        "status": "",
+        "bild": ""
+      },
+      {
+        "name": "Bosch Smart Home Tür-/Fensterkontakt",
+        "status": "",
+        "bild": ""
+      },
+      {
+        "name": "Eimsig Fenster+Glasbruchsensor BLE",
+        "status": "",
+        "bild": "assets/produkte/eimsig-fenstersensor.webp"
+      },
+      {
+        "name": "Eve Door and Window",
+        "status": "",
+        "bild": "assets/produkte/eve-door-window.webp"
+      },
+      {
+        "name": "Eve Window Guard",
+        "status": "",
+        "bild": ""
+      },
+      {
+        "name": "VOCOlinc VS1 Fensterkontakt",
+        "status": "",
+        "bild": ""
+      }
+    ]
+  },
+  "wassersensoren": {
+    "title": "Wassersensoren",
+    "intro": "Wassermelder aus Andreas’ Sammlung.",
+    "source": "https://spielundzeug.com/sammlungen/filter:wassersensor",
+    "products": [
+      {
+        "name": "Eve Water Guard",
+        "status": "",
+        "bild": ""
+      }
+    ]
+  },
+  "bewegungsmelder": {
+    "title": "Bewegungsmelder",
+    "intro": "Bewegungs- und Außensensoren.",
+    "source": "https://spielundzeug.com/sammlungen/filter:bewegungssensor",
+    "products": [
+      {
+        "name": "Aqara Motionsensor",
+        "status": "",
+        "bild": ""
+      },
+      {
+        "name": "Eve Motion",
+        "status": "",
+        "bild": ""
+      },
+      {
+        "name": "Philips Hue Motion Sensor",
+        "status": "",
+        "bild": ""
+      },
+      {
+        "name": "Philips Hue Outdoor Sensor",
+        "status": "",
+        "bild": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "smartHome": [
+    {
+      "id": "beleuchtung",
+      "titel": "Beleuchtung.",
+      "beschreibung": "Smarte Beleuchtung und Zubehör.",
+      "produkte": [
+        {
+          "name": "Philips Hue Starterkit",
+          "beschreibung": "Bridge mit drei Farb-LEDs",
+          "bild": "assets/produkte/philips-hue-starterkit.webp",
+          "link": "https://www.amazon.de/dp/B07SRY13QN/?tag=suz-web-21"
+        },
+        {
+          "name": "Philips Hue White and Color",
+          "beschreibung": "Farbige smarte Beleuchtung",
+          "bild": "assets/produkte/philips-hue-white-and-color.webp",
+          "link": ""
+        },
+        {
+          "name": "Philips Hue White Ambiance",
+          "beschreibung": "Licht mit verschiedenen Weißtönen",
+          "bild": "assets/produkte/philips-hue-white-ambiance.webp",
+          "link": "https://www.amazon.de/dp/B01BPDXAAC/?tag=suz-web-21"
+        },
+        {
+          "name": "Philips Hue Dimmer Switch",
+          "beschreibung": "Lichtschalter und Fernbedienung",
+          "bild": "assets/produkte/philips-hue-dimmer-switch.webp",
+          "link": "https://www.amazon.de/dp/B0748KLR39/?tag=suz-web-21"
+        },
+        {
+          "name": "Philips Hue Lightstrip Plus",
+          "beschreibung": "Indirekte Beleuchtung",
+          "bild": "assets/produkte/philips-hue-lightstrip-plus.webp",
+          "link": "https://www.amazon.de/dp/B0148NMVQA/?tag=suz-web-21"
+        },
+        {
+          "name": "Busch-Jaeger Friends of Hue",
+          "beschreibung": "Smarte Lichtschalter",
+          "bild": "assets/produkte/busch-jaeger-friends-of-hue.webp",
+          "link": "https://www.amazon.de/dp/B07S36RHKQ/?tag=suz-web-21"
+        }
+      ]
+    },
+    {
+      "id": "musik",
+      "titel": "Musik.",
+      "beschreibung": "Lautsprecher und Multiroom-Audio.",
+      "produkte": [
+        {
+          "name": "Sonos Arc",
+          "beschreibung": "Soundbar fürs Wohnzimmer",
+          "bild": "assets/produkte/sonos-arc.webp",
+          "link": "https://www.amazon.de/dp/B0883K61BG/?tag=suz-web-21"
+        },
+        {
+          "name": "Sonos Sub (3. Generation)",
+          "beschreibung": "Kabelloser Subwoofer",
+          "bild": "",
+          "link": "https://www.amazon.de/dp/B0883LLX3L/?tag=suz-web-21"
+        },
+        {
+          "name": "Sonos One",
+          "beschreibung": "Smarter Lautsprecher",
+          "bild": "assets/produkte/sonos-one.webp",
+          "link": "https://zeug.cool/sonos-one-gen2"
+        },
+        {
+          "name": "IKEA Symfonisk",
+          "beschreibung": "Regallautsprecher",
+          "bild": "assets/produkte/ikea-symfonisk-regallautsprecher.webp",
+          "link": "https://www.ikea.com/de/de/p/symfonisk-regal-wifi-speaker-weiss-30435204/"
+        },
+        {
+          "name": "Apple HomePod mini",
+          "beschreibung": "Kompakter Smartspeaker",
+          "bild": "assets/produkte/apple-homepod-mini.webp",
+          "link": "https://www.apple.com/de/shop/buy-homepod/homepod-mini"
+        }
+      ]
+    },
+    {
+      "id": "heizung",
+      "titel": "Heizung.",
+      "beschreibung": "Thermostate und Fenstersensoren.",
+      "produkte": [
+        {
+          "name": "tado° Starter Kit",
+          "beschreibung": "Bridge und Thermostat",
+          "bild": "assets/produkte/tado-starterkit.webp",
+          "link": "https://www.amazon.de/dp/B07FYSF4F1/?tag=suz-web-21"
+        },
+        {
+          "name": "tado° Thermostat",
+          "beschreibung": "Smarte Heizungssteuerung",
+          "bild": "assets/produkte/tado-thermostat.webp",
+          "link": "https://www.amazon.de/dp/B01LXPJG23/?tag=suz-web-21"
+        },
+        {
+          "name": "Eve Thermo",
+          "beschreibung": "Smartes Heizkörperthermostat",
+          "bild": "assets/produkte/eve-thermo.webp",
+          "link": "https://www.amazon.de/dp/B08H2HK6YS/?tag=suz-web-21"
+        },
+        {
+          "name": "Eve Door & Window",
+          "beschreibung": "Tür- und Fenstersensor",
+          "bild": "assets/produkte/eve-door-window.webp",
+          "link": "https://www.amazon.de/dp/B08CDV2RY9/?tag=suz-web-21"
+        },
+        {
+          "name": "Eimsig Fenster- und Glasbruchsensor",
+          "beschreibung": "Fenstersensor mit Kipperkennung",
+          "bild": "assets/produkte/eimsig-fenstersensor.webp",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "id": "zugang",
+      "titel": "Zugang.",
+      "beschreibung": "Smartes Türschloss und Zubehör.",
+      "produkte": [
+        {
+          "name": "Nuki Smart Lock 3.0 Pro",
+          "beschreibung": "Smartes Türschloss",
+          "bild": "assets/produkte/nuki-smart-lock-3-pro.webp",
+          "link": ""
+        },
+        {
+          "name": "Nuki Keypad 2.0",
+          "beschreibung": "Zugang per Fingerabdruck",
+          "bild": "assets/produkte/nuki-keypad-2.webp",
+          "link": "https://www.amazon.de/dp/B0BKG7QQPJ/?tag=suz-web-21"
+        }
+      ]
+    },
+    {
+      "id": "staubsauger",
+      "titel": "Staubsauger.",
+      "beschreibung": "Smarte Reinigung.",
+      "produkte": [
+        {
+          "name": "Roborock S7 MaxV Ultra",
+          "beschreibung": "Saugroboter mit Reinigungsstation",
+          "bild": "assets/produkte/roborock-s7-maxv-ultra.webp",
+          "link": "https://www.amazon.de/dp/B09VTN2BH4?tag=suz-web-21"
+        },
+        {
+          "name": "Dyson V11 Absolute",
+          "beschreibung": "Kabelloser Staubsauger",
+          "bild": "assets/produkte/dyson-v11-absolute.webp",
+          "link": "https://www.amazon.de/dp/B07NVYN6JS/?tag=suz-web-21"
+        }
+      ]
+    }
+  ]
+}

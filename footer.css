@@ -1,0 +1,184 @@
+/* Footer für Seiten ohne style.css (Kategorie-Seiten).
+   Die Regeln entsprechen dem Footer der Startseite (style.css). */
+
+.footer,
+.footer * {
+  box-sizing: border-box;
+}
+
+.footer {
+  font-family: Arial, sans-serif;
+}
+
+.footer p,
+.footer h3 {
+  margin: 0;
+}
+
+/* FOOTER */
+
+.footer {
+  background: #e5e5ea;
+  padding: 70px 40px 24px;
+}
+
+.footer-container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.footer-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 60px;
+  padding-bottom: 60px;
+}
+
+.footer-brand {
+  flex: 1;
+}
+
+.footer-logo {
+  width: 180px;
+  height: auto;
+  display: block;
+}
+
+.footer-brand p {
+  color: #6e6e73;
+  font-size: 15px;
+  margin-top: 14px;
+}
+
+.footer-links {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  min-width: 120px;
+}
+
+.footer-links h3 {
+  font-size: 15px;
+  font-weight: 600;
+  color: #1d1d1f;
+  margin: 0 0 8px;
+}
+
+.footer-links a {
+  color: #6e6e73;
+  text-decoration: none;
+  font-size: 14px;
+  transition: color 0.2s ease;
+}
+
+.footer-links a:hover {
+  color: #00bfe5;
+}
+
+/* Unterer Bereich */
+
+.footer-bottom {
+  border-top: 1px solid #d2d2d7;
+  padding-top: 24px;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 20px;
+}
+
+.footer-bottom p {
+  font-size: 13px;
+  color: #86868b;
+  margin: 0;
+}
+
+.footer-legal {
+  display: flex;
+  gap: 24px;
+}
+
+.footer-legal a {
+  font-size: 13px;
+  color: #86868b;
+  text-decoration: none;
+}
+
+.footer-legal a:hover {
+  color: #00bfe5;
+}
+
+/* MOBILE */
+
+@media (max-width: 768px) {
+  /* FOOTER */
+
+  .footer {
+    padding: 48px 22px 28px;
+    background: #e5e5ea;
+  }
+
+  .footer-container {
+    width: 100%;
+  }
+
+  .footer-top {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 32px 20px;
+    padding-bottom: 35px;
+  }
+
+  .footer-brand {
+    grid-column: 1 / -1;
+    padding-bottom: 28px;
+    border-bottom: 1px solid #c5c5cc;
+  }
+
+  .footer-logo {
+    width: 170px;
+    height: auto;
+  }
+
+  .footer-brand p {
+    font-size: 14px;
+    line-height: 1.5;
+    margin-top: 12px;
+  }
+
+  .footer-links {
+    min-width: 0;
+    gap: 16px;
+  }
+
+  .footer-links h3 {
+    font-size: 15px;
+    margin-bottom: 4px;
+  }
+
+  .footer-links a {
+    font-size: 14px;
+  }
+
+  .footer-bottom {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 18px;
+    padding-top: 25px;
+  }
+
+  .footer-bottom p {
+    font-size: 12px;
+  }
+
+  .footer-legal {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 24px;
+  }
+
+  .footer-legal a {
+    font-size: 13px;
+  }
+}
