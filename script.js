@@ -1,27 +1,64 @@
 
-const videos = [
-  {
-    id: "VIDEO_ID_1",
-    title: "Smart Home Technik Unfug"
-  },
-  {
-    id: "VIDEO_ID_2",
-    title: "Ist mein Netzwerk explodiert?"
-  },
-  {
-    id: "VIDEO_ID_3",
-    title: "Briefkasten automatisiert"
-  }
-];
-
+const featuredVideo = document.getElementById("featured-video");
 const videoGrid = document.getElementById("video-grid");
 const loadMore = document.getElementById("load-more");
 
+let olderVideos = [];
 let visibleCount = 0;
 const pageSize = 6;
 
+// YouTube-Videos laden
+async function loadVideos() {
+  try {
+    const response = await fetch("./videos.json");
+
+    if (!response.ok) {
+      throw new Error("Videos konnten nicht geladen werden");
+    }
+
+    const videos = await response.json();
+
+    if (videos.length === 0) {
+      throw new Error("Keine Videos gefunden");
+    }
+
+    // Neuestes Video in Sektion 2
+    const latest = videos[0];
+
+    const link = document.createElement("a");
+    link.href = latest.url;
+    link.target = "_blank";
+    link.rel = "noopener noreferrer";
+    link.className = "video-link";
+
+    const image = document.createElement("img");
+    image.src = latest.thumbnail;
+    image.alt = latest.title;
+    image.className = "video-thumbnail";
+
+    link.appendChild(image);
+
+    const label = document.createElement("p");
+    label.className = "video-label";
+    label.textContent = "NEUESTES VIDEO";
+
+    const title = document.createElement("h3");
+    title.textContent = latest.title;
+
+    featuredVideo.replaceChildren(link, label, title);
+
+    // Alle Videos außer dem neuesten
+    olderVideos = videos.slice(1);
+    showMoreVideos();
+
+  } catch (error) {
+    console.error(error);
+  }
+}
+
+// Weitere Videos anzeigen
 function showMoreVideos() {
-  const nextVideos = videos.slice(
+  const nextVideos = olderVideos.slice(
     visibleCount,
     visibleCount + pageSize
   );
@@ -29,12 +66,12 @@ function showMoreVideos() {
   nextVideos.forEach(video => {
     const card = document.createElement("a");
     card.className = "video-card";
-    card.href = `https://www.youtube.com/watch?v=${video.id}`;
+    card.href = video.url;
     card.target = "_blank";
     card.rel = "noopener noreferrer";
 
     const image = document.createElement("img");
-    image.src = `https://img.youtube.com/vi/${video.id}/hqdefault.jpg`;
+    image.src = video.thumbnail;
     image.alt = video.title;
     image.loading = "lazy";
 
@@ -47,8 +84,9 @@ function showMoreVideos() {
 
   visibleCount += nextVideos.length;
 
-  loadMore.hidden = visibleCount >= videos.length;
+  loadMore.hidden = visibleCount >= olderVideos.length;
 }
 
 loadMore.addEventListener("click", showMoreVideos);
-showMoreVideos();
+
+loadVideos();
