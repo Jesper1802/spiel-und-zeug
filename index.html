@@ -1,0 +1,114 @@
+
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Spiel und Zeug</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header class="navbar">
+    <nav class="nav-container">
+
+      <a href="/" class="logo">
+        <img src="assets/logo.png" alt="Spiel und Zeug Logo">
+    </a>
+
+      <div class="nav-links">
+        <a href="#zeug">Zeug</a>
+        <a href="#ueber-mich">Über mich</a>
+        <a href="#shop" class="shop-button">Shop</a>
+      </div>
+
+    </nav>
+  </header>
+
+
+    <main>
+        <section class="hero">
+            <p class="hero-label">HEY, ICH BIN ANDREAS</p>
+
+            <h1>Technik. Spielzeug. Größenwahn.</h1>
+
+            <p class="hero-description">
+            Ich liebe Technik, probiere gerne Neues aus und
+            zeige dir alles, was mich begeistert.
+            Mit einer gesunden Portion Größenwahn.
+            </p>
+
+            <img
+            src="assets/Andreas.jpg"
+            alt="Porträt von Andreas"
+            class="hero-image"
+            />
+
+            <div class="hero-buttons">
+            <a href="#videos" class="btn btn-primary">
+                Video entdecken
+            </a>
+
+            <a href="#empfehlungen" class="btn btn-secondary">
+                Empfehlungen
+            </a>
+            </div>
+        </section>
+
+
+        <section class="youtube-section" id="videos">
+
+            <div class="youtube-heading">
+                <p class="youtube-label">IMMER WAS NEUES</p>
+                <h2>Frisch auf YouTube.</h2>
+                <p class="youtube-description">
+                Meine neuesten Videos. Direkt hier.
+                </p>
+            </div>
+
+            <div class="featured-video">
+                <a
+                href="https://www.youtube.com/"
+                target="_blank"
+                rel="noopener noreferrer"
+                class="video-link"
+                aria-label="Neuestes Video auf YouTube ansehen"
+                >
+                <img
+                    src="assets/thumbnail.jpg"
+                    alt="Thumbnail des neuesten Videos"
+                    class="video-thumbnail"
+                />
+                </a>
+
+                <p class="video-label">NEUESTES VIDEO</p>
+                <h3>SMARTHOME TECHNIK UNFUG</h3>
+            </div>
+
+        </section>
+
+
+        <section class="all-videos" id="alle-videos">
+
+            <div class="all-videos-heading">
+                <p class="all-videos-label">NOCH MEHR UNFUG</p>
+                <h2>Alle Videos.</h2>
+                <p>Alles, was ich bisher auf YouTube veröffentlicht habe.</p>
+            </div>
+
+            <div class="video-grid" id="video-grid">
+                <!-- Hier werden die Videos eingefügt -->
+            </div>
+
+            <button class="load-more" id="load-more" type="button">
+                Weitere Videos laden ↓
+            </button>
+
+        </section>
+
+
+    </main>
+
+    <script src="script.js" defer></script>
+</body>
+</html>
