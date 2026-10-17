@@ -100,128 +100,9 @@ body {
   transform: translateY(-2px);
 }
 
-/* Mobile */
-
-@media (max-width: 600px) {
-
-  .navbar {
-    height: 75px;
-  }
-
-  .nav-container {
-    padding: 0 16px;
-  }
-
-  .logo img {
-    width: 135px;
-  }
-
-  .nav-links {
-    gap: 12px;
-  }
-
-  .nav-links a {
-    font-size: 13px;
-    white-space: nowrap;
-  }
-
-  .nav-links .shop-button {
-    padding: 10px 15px;
-    font-size: 13px;
-  }
-}
 
 
 
-@media (max-width: 768px) {
-  .hero {
-    min-height: auto;
-    padding: 64px 20px 100px;
-  }
-
-  .hero-label {
-    font-size: 12px;
-  }
-
-  .hero h1 {
-    font-size: 34px;
-    letter-spacing: -1px;
-  }
-
-  .hero-description {
-    font-size: 16px;
-  }
-
-  .hero-image {
-    width: 150px;
-    height: 150px;
-  }
-
-  .hero-buttons {
-    flex-wrap: wrap;
-    gap: 12px;
-  }
-
-  .hero-buttons .btn {
-    font-size: 14px;
-  }
-}
-
-
-@media (max-width: 768px) {
-  .youtube-section {
-    min-height: auto;
-    padding: 60px 20px 80px;
-  }
-
-  .youtube-label {
-    font-size: 13px;
-  }
-
-  .youtube-heading h2 {
-    font-size: 26px;
-  }
-
-  .youtube-description {
-    font-size: 16px;
-  }
-
-  .featured-video {
-    margin-top: 48px;
-  }
-
-  .video-link {
-    border-radius: 24px;
-  }
-
-  .video-label {
-    font-size: 13px;
-  }
-
-  .featured-video h3 {
-    font-size: 16px;
-  }
-}
-
-@media (max-width: 900px) {
-  .video-grid {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-  }
-}
-
-@media (max-width: 600px) {
-  .all-videos {
-    padding: 60px 20px;
-  }
-
-  .video-grid {
-    grid-template-columns: 1fr;
-  }
-
-  .all-videos-heading h2 {
-    font-size: 32px;
-  }
-}
 
 
 
@@ -607,28 +488,316 @@ body {
 
 /* MOBILE */
 
+
+
+
+
+/* =========================================
+   MOBILE OPTIMIERUNG
+   ========================================= */
+
 @media (max-width: 768px) {
+
+  /* NAVIGATION */
+
+  .navbar {
+    height: 68px;
+  }
+
+  .nav-container {
+    padding: 0 16px;
+    gap: 12px;
+  }
+
+  .logo {
+    flex-shrink: 0;
+  }
+
+  .logo img {
+    width: 105px;
+  }
+
+  .nav-links {
+    gap: 12px;
+  }
+
+  .nav-links a {
+    font-size: 12px;
+    letter-spacing: 0;
+    white-space: nowrap;
+  }
+
+  .nav-links .shop-button {
+    padding: 9px 13px;
+    font-size: 12px;
+  }
+
+
+  /* HERO */
+
+  .hero {
+    min-height: auto;
+    padding: 65px 20px 85px;
+  }
+
+  .hero-label {
+    font-size: 12px;
+    letter-spacing: 1.5px;
+    margin-bottom: 14px;
+  }
+
+  .hero h1 {
+    font-size: clamp(30px, 8vw, 42px);
+    line-height: 1.12;
+    letter-spacing: -1px;
+    max-width: 500px;
+    margin-bottom: 20px;
+  }
+
+  .hero-description {
+    font-size: 15px;
+    line-height: 1.6;
+    max-width: 420px;
+    margin-bottom: 32px;
+  }
+
+  .hero-image {
+    width: 160px;
+    height: 160px;
+    margin-bottom: 32px;
+  }
+
+  .hero-buttons {
+    gap: 12px;
+    width: 100%;
+    max-width: 380px;
+  }
+
+  .hero-buttons .btn {
+    flex: 1;
+    min-width: 0;
+    min-height: 48px;
+    padding: 12px 10px;
+    font-size: 13px;
+    white-space: nowrap;
+  }
+
+
+  /* NEUESTES VIDEO */
+
+  .youtube-section {
+    min-height: auto;
+    padding: 60px 16px 75px;
+  }
+
+  .youtube-heading {
+    max-width: 100%;
+  }
+
+  .youtube-label {
+    font-size: 12px;
+    margin-bottom: 10px;
+  }
+
+  .youtube-heading h2 {
+    font-size: 30px;
+    line-height: 1.15;
+    margin-bottom: 10px;
+  }
+
+  .youtube-description {
+    font-size: 15px;
+    line-height: 1.5;
+  }
+
+  .featured-video {
+    margin-top: 35px;
+    width: 100%;
+  }
+
+  .video-link {
+    width: 100%;
+    max-width: none;
+    border-radius: 20px;
+  }
+
+  .video-thumbnail {
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+  }
+
+  .video-label {
+    font-size: 12px;
+    margin: 18px 0 8px;
+  }
+
+  .featured-video h3 {
+    font-size: 18px;
+    line-height: 1.35;
+    max-width: 100%;
+  }
+
+
+  /* ALLE VIDEOS */
+
+  .all-videos {
+    padding: 65px 16px 75px;
+  }
+
+  .all-videos-heading {
+    margin-bottom: 32px;
+  }
+
+  .all-videos-label {
+    font-size: 12px;
+  }
+
+  .all-videos-heading h2 {
+    font-size: 34px;
+    letter-spacing: -1px;
+    margin: 10px 0;
+  }
+
+  .all-videos-heading > p:last-child {
+    font-size: 15px;
+    line-height: 1.5;
+  }
+
+  .video-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 32px;
+    width: 100%;
+  }
+
+  .video-card {
+    display: block;
+    width: 100%;
+  }
+
+  .video-card img {
+    display: block;
+    width: 100%;
+    height: auto;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+    border-radius: 18px;
+  }
+
+  .video-card h3 {
+    font-size: 17px;
+    line-height: 1.4;
+    margin-top: 12px;
+  }
+
+  .load-more {
+    width: 100%;
+    max-width: 340px;
+    margin: 42px auto 0;
+    padding: 16px 20px;
+    font-size: 15px;
+  }
+
+  .load-more[hidden] {
+    display: none;
+  }
+
+
+  /* FOOTER */
+
   .footer {
-    padding: 48px 24px 24px;
+    padding: 48px 22px 28px;
+    background: #e5e5ea;
+  }
+
+  .footer-container {
+    width: 100%;
   }
 
   .footer-top {
-    flex-direction: column;
-    gap: 36px;
-    padding-bottom: 40px;
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 32px 20px;
+    padding-bottom: 35px;
+  }
+
+  .footer-brand {
+    grid-column: 1 / -1;
+    padding-bottom: 28px;
+    border-bottom: 1px solid #c5c5cc;
   }
 
   .footer-logo {
-    width: 150px;
+    width: 170px;
+    height: auto;
+  }
+
+  .footer-brand p {
+    font-size: 14px;
+    line-height: 1.5;
+    margin-top: 12px;
+  }
+
+  .footer-links {
+    min-width: 0;
+    gap: 16px;
+  }
+
+  .footer-links h3 {
+    font-size: 15px;
+    margin-bottom: 4px;
+  }
+
+  .footer-links a {
+    font-size: 14px;
   }
 
   .footer-bottom {
     flex-direction: column;
     align-items: flex-start;
-    gap: 14px;
+    gap: 18px;
+    padding-top: 25px;
+  }
+
+  .footer-bottom p {
+    font-size: 12px;
   }
 
   .footer-legal {
-    gap: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 24px;
+  }
+
+  .footer-legal a {
+    font-size: 13px;
+  }
+}
+
+
+/* SEHR KLEINE HANDYS */
+
+@media (max-width: 380px) {
+
+  .logo img {
+    width: 85px;
+  }
+
+  .nav-links {
+    gap: 8px;
+  }
+
+  .nav-links a {
+    font-size: 11px;
+  }
+
+  .nav-links .shop-button {
+    padding: 8px 10px;
+    font-size: 11px;
+  }
+
+  .hero h1 {
+    font-size: 29px;
   }
 }
